@@ -1,4 +1,4 @@
-#(ALL THE CREDITS TO freeCodeCamp.org!) THANK VERY MUCH FOR POSTING THIS TUTORIAL ON YOUTUBE!
+# (ALL THE CREDITS TO freeCodeCamp.org!) THANK VERY MUCH FOR POSTING THIS TUTORIAL ON YOUTUBE!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
